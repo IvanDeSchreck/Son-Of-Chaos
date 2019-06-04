@@ -77,6 +77,12 @@ Mother of Lara von Berg
 ## Joseph von Berg
 Father of Lara and husband of Miranda. Emperor of the Empire of Bergen
 
+## Key von Berg
+Brother of Lara von Berg and head of the Imperial Trust Fund
+
+## Tess von Berg 
+Sister of Lara von Berg. CEO of the Berg Company and married to Oleg von Klein.
+
 # Servants
 ## Susan
 Maid at the palace
