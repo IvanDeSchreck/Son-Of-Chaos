@@ -1,7 +1,11 @@
 = Pills
+:toc: left
+
 A list of all the pills used in the book
 
-:toc:
+The pills can have a different Rank, which depends on the recipe. The grade of the Pill, is more of an indicator of which difficulty and effect the pill has. In that it is similar to the Rank, but it is possible to use the same recipe to create different grades of pill, since better ingredients and refining skill can increase the effect and thus the grade.
+
+Besides that there is the quality of the pill. This also describes the efficency of the pill, but without taking the recipe into consideration. As such it is a good measurement for the skill of the pill refiner.
 
 == Lesser Healing Pill
 
