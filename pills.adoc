@@ -1,0 +1,8 @@
+= Pills
+A list of all the pills used in the book
+
+:toc:
+
+== Lesser Healing Pill
+
+== Small Healing Pill
