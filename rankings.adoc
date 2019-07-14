@@ -14,4 +14,6 @@ Metals have their own rankings. The higher the ranking, the stronger the materia
 - Iron (gray)
 - Silver (silvery)
 - Gold (golden)
-- Titan (black)
+- Titanium (black)
+- Blood metal (red)
+- Star metal (white shimmering color)
