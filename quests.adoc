@@ -1,7 +1,9 @@
 = All the quests in the story
 :toc:
 
-== First steps to real Pill Refining
+== Curently active quests (ch. 127)
+
+=== First steps to real Pill Refining
 
 Started: Chapter 126
 
@@ -16,3 +18,31 @@ Rewards:
 
 Time limit: +
 Unlimited
+
+=== Traversing the grassland (F) (Nightmare Mode) (1)
+(Training dungeon quest)
+
+You have entered the Grand Endless Grasslands, which is filled with danger and opportunities. Your goal is to reach the grand tree, which is the only tree growing on this grassland. All the while fighting against the native monsters of the grassland.
+
+Tasks (Part 1):
+- Follow the arrow in the Direction Cube until you reach the grass hut.
+
+Bonus tasks:
+- Slay 50 Grass Wolfes
+- Slay 10 Grass Vultures
+- Slay 5 Gigant Grass Pythons
+
+Rewards:
+- Access to floor 6
+- 1 Silver
+- A random item box (req. Nightmare Mode)
+
+Bonus Rewards:
+For each bonus task you fulfill, you will receive:
+- 1 Silver
+- 1 Small Healing Pill (Normal Quality)
+
+For fulfilling all bonus tasks, you will receive:
+- 5 Silver
+- 1 Small Strengthening Pill (Normal Quality)
+- 1 Tin Lottery Ticket (req. Nightmare Mode)
