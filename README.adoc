@@ -9,4 +9,4 @@ link:./persons.md[List of persons] +
 link:./locations.md[List of locations]
 
 link:./stats.md[Character stats] +
-link:./rankings.md[Ranking of skills/items]
+link:./rankings.adoc[Ranking of skills/items]
