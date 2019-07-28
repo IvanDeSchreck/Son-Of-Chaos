@@ -1,0 +1,23 @@
+= World Awareness 
+
+Acquired: Ch. 131
+
+Rank: C +
+Type: Active, Support
+
+For an adventurer, it is imperative to be aware of the surroundings.
+To sense enemies approaching, to sense projectiles shooting towards him and of course to sense valuables. Because if one isn't able to find any valuables, then why bother being an adventurer?
+
+By using Spiritual Sense to sense the surrounding one can do all this. But as one might realize, the costs are way too high. A high drain on one's Mental Energy because of the constant use of Spiritual Sense as well as the extreme amount of information leads to fast exhaustion. Thus it is necessary to filter the information and to efficiently use the Spiritual Sense.
+
+This skill enables the owner to efficiently sense the surroundings, by making use of a complex scan algorithm as well as filter algorithm. 
+
+== Cost
+
+A large amount of Mental Energy as well as mental exhaustion. 
+
+== Effect
+
+Scans the surroundings of the user for hostile creatures and objects.
+
+Current range: 50m
