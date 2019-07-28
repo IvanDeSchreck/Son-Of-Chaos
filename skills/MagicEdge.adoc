@@ -1,0 +1,19 @@
+= Magic Edge
+
+Acquired: Ch 131
+
+Rank: F +
+Type: Channeling, Buff
+
+== Description
+
+By infusing the blade of your weapon with a small amount of mana, you create a thin mana shield around the blade, drastically increasing its sharpness as well as slightly increasing its durability.
+
+== Cost
+
+A constant stream of mana. The amount of mana funneled into the blade determines the effect. The amount of mana per second a weapon can take depends on its quality as well as your control over the mana.
+
+== Effect
+
+Drastically increased sharpness of the blade depended on the mana funneled into the blade as well as the control over the mana and this skill.
+Slightly increased durability of the blade. Because of the mana shield, the blade is less likely to get damaged, thus reducing the damage it takes.
