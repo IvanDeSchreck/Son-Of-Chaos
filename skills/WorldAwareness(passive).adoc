@@ -2,7 +2,7 @@
 
 Acquired: Ch 131
 
-Rank: C
+Rank: C + 
 Type: Passive, Support
 
 While it is unrealistic to continuously scan the surroundings actively, for an adventurer it is still a necessity to be aware of the surroundings.
