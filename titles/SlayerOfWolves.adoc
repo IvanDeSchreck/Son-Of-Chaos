@@ -1,0 +1,16 @@
+= Slayer of Wolves 
+
+Acquired: Ch 131
+
+Rank: F
+
+By slaying a large number of wolves, that have at least your level, solo, you have managed to gain the title 'Slayer of Wolves'. You have extensively studied the best way to slay wolves, enabling you to easily find their weak points as well as to exploit them.
+
+You have been drenched by the blood of wolves, making you appear as a dangerous foe to all wolves. Those stronger than you will seek you out to get revenge for their fallen brethren, while those weaker will try to avoid you, as to avoid the same fate as those slain by you.
+
+= Effects
+
+- Increased damage to wolves. 
+- You can easily find the weak point of wolf creatures. 
+- Wolves that are stronger than you are more aggressive towards you.
+- Wolves that are weaker than you are more likely to avoid you or flee from you.
