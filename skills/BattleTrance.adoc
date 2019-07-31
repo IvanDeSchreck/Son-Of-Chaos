@@ -1,0 +1,23 @@
+= Battle Trance
+Acquired: Ch 131
+
+Rank: C + 
+Type: Active, State
+
+Those who love combat, especially close quarter combat, will sometimes lose themselves in the joy of fighting. They will then only react on instinct, drastically improving their fighting ability, while reducing the decision making ability. They will become the perfect fighting machine.
+
+They can only leave the trance when there is no foe left, standing or they are critically wounded. 
+
+= Cost
+
+Mental Energy, that is proportional to the time spent in the trance. 
+
+= Effect
+
+- Increases reaction speed.
+- Increases skill proficiency. 
+- Reduces the ability to make decisions, not relevant for combat.
+- Can't be canceled until either you or the foes are defeated, or your Mental Energy runs out.
+
+= Warning
+If the trance cancels because you run out of Mental Energy, then you will fall into a coma for two to five days.
