@@ -1,0 +1,31 @@
+= Mana Strengthening 
+
+Rank: E +
+Type: Active, Buff
+
+The body is something that requires energy to run. The more energy available, the better it can work, the more power and speed it can deliver. So what if you infuse it with something like mana?
+
+Since mana is a highly concentrated form of energy, that is usually incompatible with the energy used by the body, the effect will surely be surprising. 
+
+Ever experienced an uncountable number of explosions going off in your body? Now you can.
+
+By mixing mana with Vital Qi you can, through the resulting explosion, supercharge your cells, drastically increasing your power and speed for a short time. While at the same time stressing and even damaging your cells.
+
+= Cost
+
+A variable amount of mana and Vital Qi.
+
+= Effect
+
+Increased strength and speed, depending on the amount of mana and Vital Qi used. If too much mana is used, then additionally there will be a period of weakness after the effect ends.
+
+Is way too much mana used, then after the effect ends, there will be damage to your body. This damage may even be the complete destruction of your body.
+
+= Warning
+
+Calculate the amount of mana used. It depends on the strengthening of your body.
+
+
+= Remark
+
+Yay, you blew yourself up. Come on, do it again.
