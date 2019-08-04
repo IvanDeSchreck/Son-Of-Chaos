@@ -1,7 +1,7 @@
 = All the quests in the story
 :toc:
 
-== Curently active quests (ch. 127)
+== Curently active quests (ch. 133)
 
 === First steps to real Pill Refining
 
@@ -50,3 +50,31 @@ For fulfilling all bonus tasks, you will receive:
 - 5 Silver
 - 1 Small Strengthening Pill (Normal Quality)
 - 1 Tin Lottery Ticket (req. Nightmare Mode)
+
+=== Growth of the family (1)
+
+Grade: F
+
+As a family man, how can your family be of a low rank? You should hurry up and increase the members of your family.
+
+Task:
+
+- Have 20 members in your family. Currently 7.
+
+Reward:
+
+- A free random building on your family homeland.
+
+=== Power of believing (1)
+
+Grade: E
+
+Now that you have gained a core belief, you have to understand it's power, to really use it. For that, the first step is to grow it into a sapling, so you can use it.
+
+Task:
+
+- Grow your core belief seed into a sapling
+
+Reward:
+
+- A random core belief skill book.
