@@ -1,105 +1,111 @@
-# School
-## Gregory Tellor
+= List of persons
+:toc:
+
+== School
+=== Gregory Tellor
 Fat guy 
 
-## Pia 
+=== Pia 
 Gregs girlfriend
 
-## Sergey Muckovik
+=== Sergey Muckovik
 Thin guy
 
-## Katherine Mertinez
+=== Katherine Mertinez
 Teacher at school
 
-## Mr. Martin
+=== Mr. Martin
 Combat teacher
 
-## Sir. Keller
+=== Sir. Keller
 Teacher for engraving
 
-## Mr. Evan
+=== Mr. Evan
 Teacher for smithing
 
-## Miss. Bea Klein
+=== Miss. Bea Klein
 A lolita teacher for pill refining
 
-## Irena Berg
+=== Irena Berg
 Classmate
 Lanky, height > 2m , short blue hair.
 Half her face destroyed, silky voice
 
 
 
-# Tang family
+== Tang family
 
-## Tang Lin
+=== Tang Lin
 Woman from the dungeon. Grand daughter of the Grand Elder of the Slavers Alliance. Member of the Tang family
 
-# Mueller family
+== Mueller family
 
-## Katherine Mueller
+=== Katherine Mueller
 Mother of Trisha van Bergen.
 
-## Luke Mueller
+=== Luke Mueller
 Father of Trisha van Bergen.
 
-## Ted Mueller
+=== Ted Mueller
 Younger brother of Trisha van Bergen.
 
-# Others
+== Berg family
 
-## Madam Tanner
-Housekeeper of Lara von Berg
-
-# Berg family
-
-## Carl van Bergen
+=== Carl van Bergen
 Recruiter and mentor
 Uncle of Lara von Berg
 
-## Jenny van Bergen
+=== Jenny van Bergen
 First wife of Carl van Bergen.
 Aunt of Tang Lin
 
-## Trisha van Bergen
+=== Trisha van Bergen
 Second wife of Carl van Bergen.
 
-## Jane von Berg
+=== Jane von Berg
 7 years old
 Daughter of Ivan Hope and Lara von Berg
 
-## Lara von Berg 
+=== Lara von Berg 
 Princess and mother of Jane
 
-## Miranda von Berg
+=== Miranda von Berg
 Mother of Lara von Berg
 
-## Joseph von Berg
+=== Joseph von Berg
 Father of Lara and husband of Miranda. Emperor of the Empire of Bergen
 
-## Key von Berg
+=== Key von Berg
 Brother of Lara von Berg and head of the Imperial Trust Fund
 
-## Tess von Berg 
+=== Tess von Berg 
 Sister of Lara von Berg. CEO of the Berg Company and married to Oleg von Klein.
 
-# Servants
-## Susan
+== Servants
+
+=== Susan
 Maid at the palace
 
+=== Madam Tanner
+Housekeeper of Lara von Berg
 
-# Lefair family
-## Lucia Lefair
+
+== Lefair family
+=== Lucia Lefair
 Daughter of Celine Lefair
 
-## Celine Lefair
+=== Celine Lefair
 Old Woman who can help Ivan with bloodline
 
 
+== Sun family
 
-# Sun family
-
-## Tanya Sun
+=== Tanya Sun
 Princess of the Empire of Sun.
+
+== Hope family
+
+=== link:persons/arinaHope.adoc[Arina Hope]
+Assistant of link:persons/ivanHope.adoc[Ivan Hope]
 
 
