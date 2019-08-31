@@ -94,7 +94,7 @@ Housekeeper of Lara von Berg
 === Lucia Lefair
 Daughter of Celine Lefair
 
-=== Celine Lefair
+=== link:persons/celineLefair.adoc[Celine Lefair]
 Old Woman who can help Ivan with bloodline
 
 
