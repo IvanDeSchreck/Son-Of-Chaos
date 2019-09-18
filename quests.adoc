@@ -78,3 +78,32 @@ Task:
 Reward:
 
 - A random core belief skill book.
+
+=== Servant development (1) 
+
+Grade: B
+
+Each servant is a great asset for the master and has to be groomed carefully. Thus it is necessary to select the further development path for your servant. You can select one or more of the following paths:
+
+- Warrior path
+
+Your servant's development will focus on fighting.
+
+War is everything and everything is war. (Dominus I)
+
+
+- Management path
+
+Your servant's development will focus on management. Because who doesn't need someone to manage one's assets?
+
+Wealth is everything and there is nothing wealth can not buy. (Gregorius III)
+
+
+- Relief path
+
+Your servant's development will focus on serving you and supporting you. 
+
+Relief is important because without stress everything will look better. And what could reduce one's stress more, than the service of a sexy servant? (Lucius VI)
+
+
+Because o
