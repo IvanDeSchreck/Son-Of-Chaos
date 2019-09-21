@@ -1,5 +1,6 @@
 = Mind communications 
-Rank: Servant-D
+
+Rank: Servant-D +
 Type: Active
 
 = Cost
