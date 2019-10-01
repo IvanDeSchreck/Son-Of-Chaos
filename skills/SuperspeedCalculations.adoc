@@ -7,7 +7,7 @@ Type: Passive
 
 What could be more important for a manager than being able to speedily do calculations? If not how would one detect that others are embezzling? Not that this is the only use of course.
 
-This is the servant version and can only be used and can be used by the master as well.
+This is the servant version and can be used by the master as well.
 
 = Effect
 
