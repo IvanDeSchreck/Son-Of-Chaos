@@ -1,0 +1,11 @@
+= Dominate 
+ 
+Type: Talent +
+Grade: F
+
+By using your aura you can force weaker beings to submit to you. Beings who have submitted to you will follow your orders without any resistance.
+
+Each 1h there will be a check if the domination will continue. If the difference of strength isn't high enough, there will be an increased chance for the check to fail, with the chance increasing each time.
+
+== Remark
+Because this talent has been acquired through resonance it is currently limited by the one you resonated with. Only by overcoming that person you can break the limit.
