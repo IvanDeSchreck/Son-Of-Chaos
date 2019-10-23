@@ -1,7 +1,30 @@
 = All the quests in the story
 :toc:
 
-== Curently active quests (ch. 133)
+== Curently active quests (ch. 153)
+
+=== Limitless Domination (SS)
+
+You have been dominated by Lady Meilo, which has lead to your bloodline burning up in defense, awakening your innate 'Dominate' talent. But the situation it has happened has left a mark. As long as you aren't capable of overcoming this, you won't be able to elevate your `Dominate` to the highest grade. Instead, it will be capped at the level of Lady Meilo.
+
+Your `Dominate` talent is currently capped at rank S and level 50.
+
+Task: +
+To get rid of the shame of being dominated it is necessary for you to get your revenge. Thus it is required for you to make Lady Meilo your pet and have her wear the corresponding collar. 
+
+
+=== Practiced domination
+
+Just like everything else dominating someone requires practice. But just going around and using it indiscriminately won't make for good practice. Instead, it is a good strategy to orient oneself at the situation one was in when the talent has awoken. 
+
+You have awoken your talent while being slightly dominated by a humanoid female, thus dominating humanoid female's is the best choice for you. Use the given collars to mark your domain.
+
+Task: +
+Use `Dominate` to make five female humanoids wear the `Collar of Submission`.
+You have currently made 0/5 wear the collar.
+
+You have 5/5 `Collar of Submission` available. You can get them in your inventory in the quest section.
+
 
 === First steps to real Pill Refining
 
@@ -107,3 +130,5 @@ Relief is important because without stress everything will look better. And what
 
 
 Because o
+
+
