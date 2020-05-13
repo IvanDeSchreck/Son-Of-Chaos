@@ -108,4 +108,8 @@ Princess of the Empire of Sun.
 === link:persons/arinaHope.adoc[Arina Hope]
 Assistant of link:persons/ivanHope.adoc[Ivan Hope]
 
+== Red Rose Sect
+
+=== Elder Lin
+One of the elders of the sect. A good friend of Miss. Klein and an expert in puppet arts.
 
